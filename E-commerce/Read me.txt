@@ -1,0 +1,11 @@
+E-commerce 
+Əsas menyuda 3 seçim var.(Admin\Guest\Exit)
+Admin olaraq giriş etmək istəyirsinizsə "Admin.txt" Faylında username və password qeyd edilməlidir.(3 account mövcuddur)
+Username və Password daxil edilərkən biri birindən boşluqla ayırlmalıdır.
+Həmçinin Guest olaraq giriş etdikdə də "Guest.txt" faylında username və password qeyd edilməldiir.(3 account mövcuddur)
+
+Admin olaraq giriş etdiyinizdə 4 əsas seçimlə məhsul əlavə edə,silə,məhsullara baxa
+və məhsulların bütün xüsusiyyətlərini update etmək mümkündür.
+
+Sonra "esc" vasitəsilə əsas menyuya qayıdaraq guest olaraq giriş edə bilərsiniz.Bu zaman admin tərəfindən əlavə edilən bütün məhsullara baxa biləcəksiniz.
+Burada ID vasitəsilə məhsul ala,məhsullara detallı baxa, və aldığınız məhsullara baxa bilərsiniz.

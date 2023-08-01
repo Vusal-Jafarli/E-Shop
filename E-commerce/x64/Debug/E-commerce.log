@@ -1,0 +1,131 @@
+﻿  E-commercecpp.cpp
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Classes.h(68,30): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Classes.h(81,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Classes.h(205,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Classes.h(239,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,6): error C2182: 'guest_menu': this use of 'void' is not valid
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,17): error C2065: 'Database': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,31): error C2563: mismatch in formal parameter list
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,31): error C2568: '&': unable to resolve function overload
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,31): message : could be 'const _Elem *std::data(std::initializer_list<_Elem>) noexcept'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,31): message : or       '_Ty *std::data(_Ty (&)[_Size]) noexcept'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,31): message : or       'unknown-type std::data(const _Container &) noexcept(<expr>)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,31): message : or       'unknown-type std::data(_Container &) noexcept(<expr>)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,33): error C2065: 'Guest': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,40): error C2065: 'guest': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(77,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,7): error C2143: syntax error: missing ';' before '<<'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,7): error C2059: syntax error: '<<'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,26): error C2143: syntax error: missing ';' before '>>'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,26): error C2059: syntax error: '>>'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(82,2): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(82,7): error C3484: syntax error: expected '->' before the return type
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(82,8): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(82,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(82,8): error C2146: syntax error: missing ';' before identifier 'set_balance'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(83,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(83,2): error C2365: 'system': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(1211,26): message : see declaration of 'system'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,2): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,6): error C3484: syntax error: expected '->' before the return type
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,7): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,7): error C2146: syntax error: missing ';' before identifier 'show_all_products'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(85,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(85,2): error C2365: 'system': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(1211,26): message : see declaration of 'system'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(87,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(87,1): error C2086: 'int guest_menu': redefinition
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(76,6): message : see declaration of 'guest_menu'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(87,11): error C2059: syntax error: ':'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(90,2): error C2059: syntax error: 'while'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(91,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(91,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(183,1): error C2059: syntax error: '}'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(183,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(185,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(185,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(381,35): error C2061: syntax error: identifier 'Database'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,9): error C2872: 'cout': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,2): message : could be 'int cout'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(40,75): message : or       'std::ostream std::cout'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,9): error C2297: '<<': not valid as right operand has type 'const char [10]'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,33): error C2297: '<<': not valid as right operand has type 'const char [11]'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,33): warning C4552: '<<': result of expression not used
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,54): error C2872: 'cin': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,22): message : could be 'int cin'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(39,75): message : or       'std::istream std::cin'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,54): error C2677: binary '>>': no global operator found which takes type 'std::string' (or there is no acceptable conversion)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(902,9): message : could be '_Istr &&std::operator >>(_Istr &&,_Ty &&)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,65): message : '_Istr &&std::operator >>(_Istr &&,_Ty &&)': could not deduce template argument for '__formal'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(889,31): message : or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,50): message : 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(883,31): message : or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,50): message : 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(860,32): message : or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,50): message : 'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(854,31): message : or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,50): message : 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(849,31): message : or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,50): message : 'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)': could not deduce template argument for 'std::basic_istream<char,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\istream(844,32): message : or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,50): message : 'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(5172,32): message : or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(422,50): message : 'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'int'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(423,9): error C2872: 'cout': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,2): message : could be 'int cout'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(40,75): message : or       'std::ostream std::cout'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(423,9): error C2297: '<<': not valid as right operand has type 'const char [10]'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(423,33): error C2297: '<<': not valid as right operand has type 'const char [11]'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(423,33): warning C4552: '<<': result of expression not used
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(433,10): error C2872: 'cout': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,2): message : could be 'int cout'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(40,75): message : or       'std::ostream std::cout'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(433,10): error C2297: '<<': not valid as right operand has type 'const char [2]'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(433,10): warning C4552: '<<': result of expression not used
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(445,23): error C2872: 'data': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,2): message : could be 'int data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(445,23): message : or       'data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(445,8): error C3861: 'admin_menu': identifier not found
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(452,13): error C2872: 'cout': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,2): message : could be 'int cout'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(40,75): message : or       'std::ostream std::cout'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(452,13): error C2297: '<<': not valid as right operand has type 'const char [17]'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(452,42): error C2563: mismatch in formal parameter list
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(452,42): error C2568: '<<': unable to resolve function overload
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(452,42): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(463,8): error C2065: 'Guest': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(463,14): error C2146: syntax error: missing ';' before identifier 'guest'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(463,14): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(464,23): error C2872: 'data': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,2): message : could be 'int data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(464,23): message : or       'data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(464,8): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(471,13): error C2872: 'cout': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(80,2): message : could be 'int cout'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream(40,75): message : or       'std::ostream std::cout'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(471,13): error C2297: '<<': not valid as right operand has type 'const char [17]'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(471,42): error C2563: mismatch in formal parameter list
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(471,42): error C2568: '<<': unable to resolve function overload
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(471,42): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(39,2): error C2065: 'Product': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(39,12): error C2065: 'products': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(39,27): error C2061: syntax error: identifier 'Product'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(39,45): error C2143: syntax error: missing ';' before '{'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(41,2): error C2065: 'Database': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(41,11): error C2146: syntax error: missing ';' before identifier 'data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(41,15): error C2872: 'data': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,2): message : could be 'int data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(41,15): message : or       'data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(41,16): error C2065: 'products': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(42,25): error C2872: 'data': ambiguous symbol
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(84,2): message : could be 'int data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(42,25): message : or       'data'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(42,2): error C2660: 'menu': function does not take 3 arguments
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\Functions.h(381,6): message : see declaration of 'menu'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(42,2): message : while trying to match the argument list '(std::string **, int, int)'
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(46,10): error C2065: 'products': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(48,9): error C2065: 'products': undeclared identifier
+C:\Users\jafar\OneDrive\Masaüstü\ara\E-commerce\E-commerce\E-commercecpp.cpp(48,17): error C2541: 'delete': cannot delete objects that are not pointers
